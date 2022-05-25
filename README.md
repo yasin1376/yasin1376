@@ -6,7 +6,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/m.yasin.1376)
 [![Google-Play Badge](https://img.shields.io/badge/Google_Play-414141?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5828772007087954060)
 
--
+------
 
 - 🔭 I’m currently working on Audiobooks App.
 - 🌱 I’m currently learning React & Tailwindcss.
