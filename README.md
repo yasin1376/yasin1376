@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/myasin1376)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/yasin_mohdi/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/m.yasin.1376)
-[![Google Play Badge](https://img.shields.io/badge/Google Play-3b5998?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5828772007087954060)
+[![Google Play Badge](https://img.shields.io/badge/Google-Play-3b5998?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=5828772007087954060)
 
 <!--
 **yasin1376/yasin1376** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
