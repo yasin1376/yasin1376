@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on <a href='https://bulbulaudio.com' traget='_blank'>Audiobooks App</a>.
 - 🌱 I’m currently learning React & Tailwindcss.
 - 👯 I’m looking to collaborate on Flutter open-source projects.
-- 💬 Ask me about Flutter, Vue & Laravel.
+- 💬 Ask me about Flutter, Vue js & Laravel.
 - 📫 How to reach me: yasinm289@gmail.com
 <!-- - 😄 Pronouns: ...
 - 🤔 I’m looking for help with 
